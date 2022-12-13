@@ -1,5 +1,5 @@
-# **README for BMHCV**
-
+# **Bees Make Honey Computer Vision Project**
+*Disclaimer: This project has nothing to do with bees or honey*
 >## **Computer Vision Object Recognition Project**
 >To clone the repository:
 ```
